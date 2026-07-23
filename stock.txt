@@ -1,0 +1,20 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Maxjohn Ads</title><style>
+body{margin:0;font-family:Arial;background:linear-gradient(135deg,#0f172a,#1e3a8a);color:#fff}
+.wrap{max-width:900px;margin:auto;padding:40px 20px;text-align:center}
+.card{background:#ffffff12;border:1px solid #ffffff22;border-radius:18px;padding:24px;margin-top:24px}
+.btn{display:inline-block;background:#22c55e;color:#fff;padding:14px 28px;border-radius:12px;text-decoration:none;font-weight:bold}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+h1{font-size:42px}p{opacity:.9}
+footer{padding:30px;text-align:center;color:#ddd}
+</style></head><body><div class="wrap">
+<img src="logo.png" alt="Logo" style="width:90px;height:90px;border-radius:50%;margin-bottom:15px;">
+<h1>MAXJOHN ADS</h1>
+<p>Professional Telegram Community & Marketing Landing Page</p>
+<a class="btn" href="https://t.me/yourchannel">Join Telegram</a>
+<div class="grid">
+<div class="card"><h3>Fast Updates</h3><p>Daily premium updates.</p></div>
+<div class="card"><h3>Trusted</h3><p>Simple responsive design.</p></div>
+<div class="card"><h3>Easy Access</h3><p>One-click join experience.</p></div>
+</div>
+<div class="card"><h2>Why Join?</h2><p>Get timely updates, educational content and announcements in one place.</p></div>
+</div><footer>©  Maxjohn Ads</footer></body></html>
